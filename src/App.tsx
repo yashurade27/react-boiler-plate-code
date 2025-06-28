@@ -1,8 +1,10 @@
 function App() {
   return (
-    <h1>Demo for Vercel-Clone</h1>
+    <div>
+      <h1>Demo for Vercel-Clone</h1>
+      <p>The website is now live</p>
+    </div>
   );
 }
 
 export default App;
-
